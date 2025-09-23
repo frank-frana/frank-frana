@@ -1,6 +1,6 @@
 # **Frank "Drew" Frana IV**
 
-### **IT Specialist & Aspiring Junior Database Administrator**  
+### **IT Specialist**
 BS in Information Technology from UCF
 
 Highly motivated IT professional with a diverse record of experience, training, education, and projects that can be adapted to 
@@ -31,6 +31,7 @@ Hello and Welcome to my GitHub. Here you will find all of the various projects t
 |--------|-------------|------|
 
 <!--
+ & Aspiring Junior Database Administrator**  
 | [Three-Tier Web Application](#) | Full-stack distributed web app with authentication, role-based access, and persistent MySQL database. | Java, JSP, Tomcat, MySQL |
 | [Requirements Tracking Database](#) | Designed and normalized a MySQL database to track UI/UX requirements with improved traceability. | MySQL |
 | [Windows Server Automation](#) | Automated user logons and notifications with PowerShell and Task Scheduler. | PowerShell |
